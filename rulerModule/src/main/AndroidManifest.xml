@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.apicloud.labelview">
+
+    <application>
+        <activity
+            android:name="com.apicloud.labelview.LabelActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar"
+            android:screenOrientation="portrait" />
+    </application>
+</manifest>
